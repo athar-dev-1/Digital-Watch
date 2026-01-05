@@ -27,7 +27,7 @@ body {
     letter-spacing: 5px;
     font-weight: 600;
     color: #9ad0ff;
-    margin-top: 20px;
+    margin-top: 40px;
 
     text-shadow:
         0 0 8px rgba(154, 208, 255, 0.8),
@@ -109,3 +109,4 @@ body {
         letter-spacing: 3px;
     }
 }
+
